@@ -3,6 +3,7 @@ Orginaltangenterna lyder som tidigare, wasd eller piltangenterna.
 
 Jag är inte riktigt nöjd med allt i projektet men jag är glad över
 vad jag lyckats åstakomma med tanke på att jag inte haft C++ färskt
-i minnet så som jag har andra språk.
+i minnet så som jag har andra språk. Dock har jag inte kommenterat koden
+så mycket som jag velat göra.
 
 Jag hoppas även att vi kan diskutera projektet.

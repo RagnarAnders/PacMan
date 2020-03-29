@@ -2,10 +2,10 @@
   font.cpp
   image.cpp
   library.cpp
-     Creating library D:\Arbetstest\Whakman_programming_cpp\Whakman_programming_cpp\StarbreezeTest\bin\SBZWhakman.lib and object D:\Arbetstest\Whakman_programming_cpp\Whakman_programming_cpp\StarbreezeTest\bin\SBZWhakman.exp
+     Creating library C:\Users\ragne\Documents\GitHub\PacMan\Whakman_programming_cpp\Whakman_programming_cpp\StarbreezeTest\bin\SBZWhakman.lib and object C:\Users\ragne\Documents\GitHub\PacMan\Whakman_programming_cpp\Whakman_programming_cpp\StarbreezeTest\bin\SBZWhakman.exp
   Generating code
-  0 of 118 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  115 of 118 functions (97.5%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  StarbreezeWhakman.vcxproj -> D:\Arbetstest\Whakman_programming_cpp\Whakman_programming_cpp\StarbreezeTest\bin\SBZWhakman.dll
+  StarbreezeWhakman.vcxproj -> C:\Users\ragne\Documents\GitHub\PacMan\Whakman_programming_cpp\Whakman_programming_cpp\StarbreezeTest\bin\SBZWhakman.dll

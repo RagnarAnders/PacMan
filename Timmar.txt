@@ -5,4 +5,4 @@
 2 timmar torsdag.
 5 timmar fredag.
 2 timmar lördag.
-9 timmar söndag.
+8 timmar söndag.
