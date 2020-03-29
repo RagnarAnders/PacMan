@@ -1,0 +1,8 @@
+Jag har tyvärr inte lagt in mer funktioner än själva orginalspelet.
+Orginaltangenterna lyder som tidigare, wasd eller piltangenterna.
+
+Jag är inte riktigt nöjd med allt i projektet men jag är glad över
+vad jag lyckats åstakomma med tanke på att jag inte haft C++ färskt
+i minnet så som jag har andra språk.
+
+Jag hoppas även att vi kan diskutera projektet.
